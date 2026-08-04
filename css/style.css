@@ -997,9 +997,9 @@ body { padding-bottom: 0; }
   flex-shrink: 0;
   padding: 12px 22px;
   border-radius: 999px;
-  background: var(--white);
-  border: 1px solid var(--line);
-  color: var(--navy);
+  background: #eef5ff;
+  border: 1px solid #c9dbff;
+  color: #2457d6;
   font-weight: 700;
   font-size: 13.5px;
   white-space: nowrap;
